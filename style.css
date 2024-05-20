@@ -1,0 +1,37 @@
+.text{
+    background: blue;
+}
+
+.text1{
+	color: blue;
+	background: burlywood;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 0;
+    text-align: center;
+}
+*{
+	padding: 0%;
+	margin: 0%;
+}
+.text2{
+	color: rebeccapurple;
+	background: beige;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	padding: 0%;
+	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	background-color: blanchedalmond;
+  border: 6px solid #7922CC;
+  border-radius: 25px;
+}
+
+.text4{
+    text-align: center;
+    margin: 10px;
+}
+
+
